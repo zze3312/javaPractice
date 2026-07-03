@@ -6,7 +6,7 @@ public class exam01 {
 
 	public static void main(String[] args) {
 		
-		// 조건문 : 조건을 만족하거나 만족하지 않을때 실행
+		// 조건문 : 조건을 만족하거나 만족하지 않을때 실행22222
 		// if ( 조건식 ) { 조건 만족시 실행 할 문장들 }
 		
 		Scanner sc = new Scanner(System.in);
