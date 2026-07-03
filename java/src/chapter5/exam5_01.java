@@ -81,8 +81,6 @@ public class exam5_01 {
 			}
 			System.out.println();
 		}
-		
-		
 	}
 
 }
